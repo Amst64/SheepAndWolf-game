@@ -1,0 +1,3 @@
+/home/kali/Downloads/Project_SDL_Part1_base/Project_SDL_Part1_base/CMakeFiles/rebuild_cache.dir
+/home/kali/Downloads/Project_SDL_Part1_base/Project_SDL_Part1_base/CMakeFiles/edit_cache.dir
+/home/kali/Downloads/Project_SDL_Part1_base/Project_SDL_Part1_base/CMakeFiles/SDL_part1.dir
