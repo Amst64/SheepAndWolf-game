@@ -9,7 +9,7 @@ Execute the game :
 - Execute the build with three arguments (respectively number of sheep, number of wolf, the time of the game in second) exemple : .\SDL_final 5 2 10 , in this case the game launch   with 5 sheeps, 2 wolve and the game last 10 seconds.
 
 How to play :
-- You are the shepherd and you can move with the arrow keys
+- You are the shepherd and you can move with the arrow keys (you must hold the key)
 - You have to protect the sheeps from the wolve
 - The wolve are scared of the shepherd dog
 - The shepherd dog circle around the shepherd
